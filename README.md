@@ -1,5 +1,8 @@
 # IT_for_Financiers
 
+! Внимание: проект еще не готов.
+! Attention: project is still on developement stage. 
+
 Шаги по настройке:
 	1. Данные (файлы base_prices.xlsx и bond_description.xlsx) следует поместить в папку с кодом.
 	2. Необходимо установить PostgreSQL и Jupyter Notebook. Запустить PostgreSQL Server.
