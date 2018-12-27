@@ -15,7 +15,9 @@
 	
 	
 Краткое содержание процедуры запуска:
-	0. Поместить файл cbr_rates.xlsx в папку с кодом IT_Risks.ipynb;
+	
+	
+	0. Поместить файл cbr_rates.xlsx и myreport.html в папку с кодом IT_Risks.ipynb;
 	
 	1. Запустить файл IT_Risks.ipynb;
 	
