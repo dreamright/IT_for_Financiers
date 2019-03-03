@@ -1,5 +1,5 @@
 # IT_for_Financiers
-
+## This project was part of Master's course IT for Financiers homework.
 
 Шаги по настройке:
 
